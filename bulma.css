@@ -9,9 +9,16 @@
   height: 20px;
   width: 20px;
 }
+.transparent {
+   
+}
 .glow-on-hover {
-    width: 220px;
-    height: 50px;
+    margin_left: 30px;
+    margin_right: 30px; 
+    margin_bottom: 30px;
+    margin_up: 30px;
+    width: 150px;
+    height: 45px;
     border: none;
     outline: none;
     color: #fff;
