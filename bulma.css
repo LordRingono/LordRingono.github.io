@@ -10,7 +10,8 @@
   width: 20px;
 }
 .transparent {
-   
+  display: flex;
+  justify-content: right;
 }
 .glow-on-hover {
     margin_left: 30px;
@@ -18,7 +19,7 @@
     margin_bottom: 30px;
     margin_up: 30px;
     width: 150px;
-    height: 45px;
+    height: 35px;
     border: none;
     outline: none;
     color: #fff;
